@@ -1,0 +1,2 @@
+# loader
+CursedRBLoader - загрузчик модов
