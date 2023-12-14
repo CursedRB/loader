@@ -1,0 +1,4 @@
+Premain-Class: pw.geckonerd.cursedrbloader.CursedRBLoader 
+Can-Redefine-Classes: true
+Can-Retransform-Classes: true
+Manifest-Version: 1.0
